@@ -24,12 +24,12 @@ module.exports = React.createClass({
     return (
       <header style={styles.header}>
         <p style={styles.title}>
-          <a href="https://github.com/FountainJS/generator-fountain-webapp" target="_blank">
-            Fountain Generator
+          <a href="https://github.com/joshuansu0897" target="_blank">
+            Hola amigo soy un enlace.
           </a>
         </p>
         <p style={styles.date}>
-          Generated with FountainJS v1.0.0-rc1 on Thu Nov 03 2016 11:44:12 GMT-0700 (Hora estándar Montañas, EE.UU.)
+          Saludos.
         </p>
       </header>
     );

@@ -15,8 +15,8 @@ module.exports = React.createClass({
     return (
       <footer style={styles.footer}>
         Build with ♥ by the&nbsp;
-        <a href="https://github.com/orgs/FountainJS/people">
-          FountainJS team
+        <a href="https://github.com/joshuansu0897">
+          Vato
         </a>
       </footer>
     );

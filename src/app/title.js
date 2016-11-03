@@ -6,7 +6,7 @@ var styles = {
     flexDirection: 'column',
     alignItems: 'center',
     padding: '1rem',
-    backgroundColor: '#cf4646',
+    backgroundColor: '#0780bc',
     color: 'white'
   },
   h1: {
@@ -31,12 +31,12 @@ module.exports = React.createClass({
   render: function () {
     return (
       <div style={styles.title}>
-        <h1 style={styles.h1}>'Allo, 'Allo!</h1>
+        <h1 style={styles.h1}>Que hubo!</h1>
         <div>
           <img style={styles.logo} src="http://fountainjs.io/assets/imgs/yeoman.png"/>
           <img style={styles.logo} src="http://fountainjs.io/assets/imgs/fountain.png"/>
         </div>
-        <h2 style={styles.h2}>Always a pleasure scaffolding your apps.</h2>
+        <h2 style={styles.h2}>Quiero ver si jala todo Fine</h2>
       </div>
     );
   }
